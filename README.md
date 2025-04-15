@@ -21,3 +21,8 @@ bash tornadovm-riscv-patch/apply-riscv-patch-opencl.sh
 bash tornadovm-riscv-patch/apply-riscv-patch-spirv.sh 
 ```
 
+
+## Platforms supported
+
+These scripts have been tested on Bianbu OS 2.1 for Banana Pi BPI-F3 and Sipeed LicheePi 3A. 
+
