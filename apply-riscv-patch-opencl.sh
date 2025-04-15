@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 VERSION=1.1.1-dev
 pushd .
 cd tornado-drivers/opencl-jni/src/main/cpp/
