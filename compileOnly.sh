@@ -1,4 +1,4 @@
-VERSION=1.1.1
+VERSION=1.1.2-dev
 
 make BACKEND=opencl   # use BACKEND=spirv for the SPIR-V backend
 #make BACKEND=spirv   # use BACKEND=spirv for the SPIR-V backend
